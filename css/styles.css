@@ -21,6 +21,11 @@ header {
 	background-color: #FFF;
 	text-align: center;
 }
+header img {
+    width: 95%;
+    height: auto;
+    max-width: 900px;
+}
 main {
 	margin: 0px;
 	padding: 0px 0px 10px 0px;
