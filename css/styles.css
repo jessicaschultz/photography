@@ -35,6 +35,10 @@ main {
 	border-top: 3px solid #A30234;
 	background-color: #FFF;
 }
+main img {
+    width: 100%;
+    height: auto;
+}
 footer {
 	margin: 0;
 	padding: 5px;
